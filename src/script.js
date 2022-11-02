@@ -1,4 +1,4 @@
-const wsUri = "wss://echo.websocket.org/";
+const wsUri = "wss://echo-ws-service.herokuapp.com";
 
 const output = document.getElementById("output");
 const btnOpen = document.querySelector('.j-btn-open');
